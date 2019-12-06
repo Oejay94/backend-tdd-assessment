@@ -41,7 +41,7 @@ def main(args):
     if args.title:
         text = text.title()
 
-    return text
+    print(text)
 
 
 if __name__ == '__main__':
